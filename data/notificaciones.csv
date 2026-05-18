@@ -1,0 +1,32 @@
+id,usuario_id,titulo,mensaje,tipo,leida,fecha
+2,2,⚠️ Cuenta Suspendida,Tu cuenta ha sido suspendida por un administrador.,rechazado,1,2026-05-11 09:09
+3,2,✅ Cuenta Reactivada,Tu cuenta ha sido reactivada por un administrador.,aprobado,1,2026-05-11 09:09
+4,3,📥 Nueva solicitud de intercambio,Juan Pérez quiere 'Diseño de Logo' el 14/05/2026 a las 09:00. Mensaje: Sin mensaje,solicitud,1,2026-05-11 09:19
+5,3,📥 Nueva solicitud de intercambio,Juan Pérez quiere 'Diseño de Logo' el 13/05/2026 a las 09:00. Mensaje: Sin mensaje,solicitud,1,2026-05-11 09:21
+6,2,✅ Intercambio Aprobado,Tu solicitud con María López ha sido aprobada para el 2026-05-14 a las 09:00. Se han transferido 3.0h.,aprobado,1,2026-05-11 09:22
+7,3,✅ Intercambio Confirmado,Has aprobado el intercambio con Juan Pérez para el 2026-05-14 a las 09:00. Se han transferido 3.0h.,aprobado,1,2026-05-11 09:22
+8,2,✅ Intercambio Aprobado,Tu solicitud con María López ha sido aprobada para el 2026-05-13 a las 09:00. Se han transferido 3.0h.,aprobado,1,2026-05-11 09:31
+9,3,✅ Intercambio Confirmado,Has aprobado el intercambio con Juan Pérez para el 2026-05-13 a las 09:00. Se han transferido 3.0h.,aprobado,1,2026-05-11 09:31
+10,2,📥 Nueva solicitud de intercambio,María López quiere 'Clases de Guitarra' el 27/05/2026 a las 09:00. Mensaje: hgjk,solicitud,1,2026-05-11 09:32
+11,3,✅ Intercambio Aprobado,Tu solicitud con Juan Pérez ha sido aprobada para el 2026-05-27 a las 09:00. Se han transferido 2.0h.,aprobado,1,2026-05-11 09:32
+12,2,✅ Intercambio Confirmado,Has aprobado el intercambio con María López para el 2026-05-27 a las 09:00. Se han transferido 2.0h.,aprobado,1,2026-05-11 09:32
+13,3,⚠️ Cuenta Suspendida,Tu cuenta ha sido suspendida por un administrador.,rechazado,1,2026-05-11 09:33
+14,3,✅ Cuenta Reactivada,Tu cuenta ha sido reactivada por un administrador.,aprobado,1,2026-05-11 09:33
+15,2,💰 Ajuste de Saldo,Un administrador ha ajustado tu saldo: +6.0h,info,1,2026-05-11 09:33
+16,2,⚠️ Cuenta Suspendida,Tu cuenta ha sido suspendida por un administrador.,rechazado,1,2026-05-15 10:55
+17,2,✅ Cuenta Reactivada,Tu cuenta ha sido reactivada por un administrador.,aprobado,1,2026-05-15 10:55
+18,3,📥 Nueva solicitud de intercambio,Juan Pérez quiere 'Diseño de Logo' el 19/05/2026 a las 09:00. Mensaje: jnkhj,solicitud,1,2026-05-15 10:58
+19,2,✅ Intercambio Aprobado,Tu solicitud con María López ha sido aprobada para el 2026-05-19 a las 09:00. Se han transferido 3.0h.,aprobado,0,2026-05-15 11:00
+20,3,✅ Intercambio Confirmado,Has aprobado el intercambio con Juan Pérez para el 2026-05-19 a las 09:00. Se han transferido 3.0h.,aprobado,1,2026-05-15 11:00
+21,3,📥 Nueva solicitud de intercambio,Juan Pérez quiere 'Diseño de Logo' el 28/05/2026 a las 09:00. Mensaje: Sin mensaje,solicitud,0,2026-05-15 11:14
+22,2,✅ Intercambio Aprobado,Tu solicitud con María López ha sido aprobada para el 2026-05-28 a las 09:00. Se han transferido 3.0 cr.,aprobado,0,2026-05-15 11:16
+23,3,✅ Intercambio Confirmado,Has aprobado el intercambio con Juan Pérez para el 2026-05-28 a las 09:00. Se han transferido 3.0 cr.,aprobado,0,2026-05-15 11:16
+24,1,⚠️ Nueva Aclaración,Se ha levantado una aclaración para el intercambio #3,rechazado,0,2026-05-15 11:16
+25,3,✅ Aclaración Resuelta,Tu aclaración del intercambio #3 fue resuelta.,info,0,2026-05-15 11:16
+26,3,📥 Nueva solicitud de intercambio,Juan Pérez quiere 'Clase 1' el 20/05/2026 a las 09:00. Mensaje: Sin mensaje,solicitud,0,2026-05-15 11:43
+27,4,📥 Nueva solicitud de intercambio,Juan Pérez quiere 'Reparación de PC' el 27/05/2026 a las 09:00. Mensaje: Sin mensaje,solicitud,0,2026-05-16 18:13
+28,2,Intercambio Aprobado,Tu solicitud con María López ha sido aprobada para el 2026-05-20 a las 09:00. Se han transferido 2.0 cr.,aprobado,0,2026-05-16 18:14
+29,3,Intercambio Confirmado,Has aprobado el intercambio con Juan Pérez para el 2026-05-20 a las 09:00. Se han transferido 2.0 cr.,aprobado,0,2026-05-16 18:14
+30,3,📥 Nueva solicitud de intercambio,Juan Pérez quiere 'Diseño de Logo' el 21/05/2026 a las 09:00. Mensaje: Sin mensaje,solicitud,0,2026-05-16 18:18
+31,2,Intercambio Aprobado,Tu solicitud con María López ha sido aprobada para el 2026-05-21 a las 09:00. Se han transferido 3.0 cr.,aprobado,0,2026-05-16 18:18
+32,3,Intercambio Confirmado,Has aprobado el intercambio con Juan Pérez para el 2026-05-21 a las 09:00. Se han transferido 3.0 cr.,aprobado,0,2026-05-16 18:18

@@ -1,0 +1,7 @@
+id,name,email,password,town,fechaRegistro,saldo_horas,activo,rol
+1,Administrador,admin@timebank.com,admin123,Ciudad Central,2026-01-01,999.0,1,admin
+2,Juan Pérez,juan@email.com,1234,San José,2026-05-01,13.0,1,consumidor
+3,María López,maria@email.com,1234,Heredia,2026-05-02,18.0,1,consumidor
+4,Carlos Rojas,carlos@email.com,1234,Alajuela,2026-05-03,8.0,1,consumidor
+5,Test User,test_3b4d342c-5c1c-4a99-9501-77710bdcf9db@example.com,pass,"Mi Ciudad, Mi Colonia",2026-05-15,10.0,1,consumidor
+6,Lalo lopes,lalo@gmail.com,1234,"Puebla, CU",2026-05-15,10.0,1,consumidor

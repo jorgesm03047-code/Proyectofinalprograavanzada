@@ -1,0 +1,9 @@
+id,proveedor_id,proveedor_nombre,titulo,descripcion,categoria,horas,estado,fecha
+1,2,Juan Pérez,Clases de Guitarra,Clases particulares de guitarra acústica nivel básico,Educación,2.0,disponible,2026-05-01
+2,3,María López,Diseño de Logo,Diseño profesional de logotipos para emprendimientos,Diseño,3.0,completado,2026-05-02
+3,4,Carlos Rojas,Reparación de PC,Mantenimiento y reparación de computadoras,Tecnología,1.5,disponible,2026-05-03
+4,2,Juan Pérez,Tutoría de Matemáticas,Ayuda con álgebra y cálculo universitario,Educación,2.5,disponible,2026-05-04
+5,2,Juan Pérez,Programacion,123,Educación,2.0,disponible,2026-05-09
+6,3,María López,Clase 1,hisodhnlkc,Educación,2.0,disponible,2026-05-11
+7,2,Juan Pérez,PRUEBA2,UDXFHUIOGSKJF,Educación,3.0,disponible,2026-05-15
+8,2,Juan Pérez,dia,dasfd,Educación,35.0,disponible,2026-05-15

@@ -1,0 +1,4 @@
+id,usuario_id,tipo,horas,saldoAntes,saldoDespues,fecha
+1,2,CREDITO,6.0,10.0,16.0,2026-05-11 09:33:47
+2,2,DEBITO,3.0,16.0,13.0,2026-05-16 18:18:38
+3,3,CREDITO,3.0,15.0,18.0,2026-05-16 18:18:38
